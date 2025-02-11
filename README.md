@@ -29,18 +29,18 @@ end)
 ## Config
 ```luau
 type config = {
-	enabled: boolean,
-	color: Color3,
-	alwaysOnTop: boolean,
-	transparency: number,
-	cframeLength: number,
-	vectorRadius: number,
-	vectorLine: boolean,
-	pointRadius: number,
+    enabled: boolean,
+    color: Color3,
+    alwaysOnTop: boolean,
+    transparency: number,
+    cframeLength: number,
+    vectorRadius: number,
+    vectorLine: boolean,
+    pointRadius: number,
 
-	lineRadius: number,
-	lineInnerRadius: number,
+    lineRadius: number,
+    lineInnerRadius: number,
 
-	cacheAdornments: boolean,
+    cacheAdornments: boolean,
 }
 ```
