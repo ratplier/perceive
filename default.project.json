@@ -1,0 +1,6 @@
+{
+  "name": "perceive",
+  "tree": {
+    "$path": "src/perceive.luau"
+  }
+}
